@@ -1,7 +1,7 @@
 ## Hello there!
 
 - 🔭 I’m currently working towards Full Stack JavaScript Projects
-- 🌱 I’m currently learning MongoDB
+- 🌱 I’m currently learning ExpressJS
 
 ---
 
