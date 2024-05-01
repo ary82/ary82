@@ -1,7 +1,8 @@
-## Hello there!
+## Hello there! I'm Aryan Goyal
 
-- 🔭 I’m currently working on DSA
-- 🌱 I’m currently learning Go
+- 🌱 I’m currently learning about distributed systems
+- 🔭 I’m currently working on my Golang & DSA skills
+- 📫 How to reach me **mail@ary82.dev**
 
 ---
 
@@ -9,10 +10,10 @@
 
 ### Programming Languages
 
-[![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://www.learncpp.com/)
-[![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://tldp.org/LDP/abs/html/)
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://www.ecma-international.org/publications-and-standards/standards/ecma-262/)
 [![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)](https://go.dev/)
+[![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://www.learncpp.com/)
+[![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://tldp.org/LDP/abs/html/)
 
 ### Tools
 
@@ -31,8 +32,6 @@
 [![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)](https://reactrouter.com/)
 [![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org/)
 [![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/)
-[![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)](https://nodemon.io/)
-[![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/)
 [![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)](https://expressjs.com/)
 [![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)](https://socket.io/)
 [![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)](https://webpack.js.org/)
@@ -55,3 +54,11 @@
 <a href="">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ary82&layout=donut&theme=tokyonight" />
 </a>
+
+---
+
+<div align="center">
+  
+[![](https://visitcount.itsvg.in/api?id=ary82&icon=3&color=6)](https://visitcount.itsvg.in)
+  
+</div>
