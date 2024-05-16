@@ -48,12 +48,22 @@
 
 ### Statistics
 
-<a href="https://git.io/streak-stats">
-    <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ary82&theme=tokyonight" />
-</a>
-<a href="">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ary82&layout=donut&theme=tokyonight" />
-</a>
+<div align="center">
+    <a href="">
+        <img height=200 align="center" src="https://readme-stats-sigma-nine.vercel.app/api?username=ary82&theme=tokyonight" />
+    </a>
+    <a href="">
+        <img height=200 align="center" src="https://readme-stats-sigma-nine.vercel.app/api/top-langs/?username=ary82&layout=donut&hide=html,css&theme=tokyonight" />
+    </a>
+</div>
+
+&nbsp;
+
+<div align="center">
+    <a href="https://git.io/streak-stats">
+        <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ary82&theme=tokyonight" />
+    </a>
+</div>
 
 ---
 
