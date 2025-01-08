@@ -2,6 +2,7 @@
 
 - 🌱 I'm currently learning best practices for software architecture
 - 🔭 I’m currently working on my Golang & DSA skills
+- 📖 I'm currently a final-year student working towards my Bachelor's at PEC, Chandigarh, India.
 - 📫 How to reach me **mail@ary82.dev**
 
 ---
@@ -13,7 +14,7 @@
 [![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)](https://go.dev/)
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://www.ecma-international.org/publications-and-standards/standards/ecma-262/)
 [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://www.learncpp.com/)
-[![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://tldp.org/LDP/abs/html/)
+[![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://tldp.org/LDP/abs/html/)
 
 ### Tools
 
