@@ -17,7 +17,7 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mail@ary82.dev)
 
-### Statistics
+### Stats
 
 <div align="center">
     <a href="">
@@ -25,13 +25,5 @@
     </a>
     <a href="">
         <img height=200 align="center" src="https://readme-stats-sigma-nine.vercel.app/api/top-langs/?username=ary82&layout=donut&hide=html,css&theme=tokyonight" />
-    </a>
-</div>
-
-&nbsp;
-
-<div align="center">
-    <a href="https://git.io/streak-stats">
-        <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ary82&theme=tokyonight" />
     </a>
 </div>
